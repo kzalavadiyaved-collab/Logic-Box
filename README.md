@@ -30,6 +30,7 @@ To develop a Python program that generates different patterns and performs numbe
 - Validates user input.
 - Demonstrates loop control.
 
+
 ### 🔹 Number Analyzer
 
 - Accepts a start and end number.
@@ -58,6 +59,7 @@ To develop a Python program that generates different patterns and performs numbe
 - Git & GitHub
 
 ---
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)]()
 
 ## 📂 Project Structure
 
@@ -191,3 +193,4 @@ After completing this project, you will understand:
 - Problem Solving Using Python
 
 ---
+
