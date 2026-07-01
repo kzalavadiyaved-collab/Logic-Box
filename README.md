@@ -59,7 +59,7 @@ To develop a Python program that generates different patterns and performs numbe
 - Git & GitHub
 
 ---
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/open?id=1nbv9NuuZvxWkNO5cdqZ6kV2fBAJHJV4c&usp=drive_copy)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1nbv9NuuZvxWkNO5cdqZ6kV2fBAJHJV4c/view?usp=sharing)
 
 ## 📂 Project Structure
 
